@@ -1,0 +1,5 @@
+{
+  "project": "Human Activity Recognition",
+  "models": ["SVM", "Random Forest", "KNN"],
+  "accuracy": "99.69%"
+}
